@@ -13,3 +13,19 @@
 - Tarjetas de Crédito
 - Leasing
 
+
+
+- Administración de distintos tipos de tasas de interés.
+- Generador de Transacciones, con componentes tributarios y comisionables.
+- Contabilidad Integral y Automática.
+- Información gerencial.
+- Informaciones al INAES.
+- Informaciones para entes tributarios y de regulación.
+- Gestión Bancaria.
+- Clasificación de socios y Previsionamiento de deudas.
+- Administración de la morosidad.
+- Administración de transacciones interbancarias.
+- Generación de situaciones y alertas.
+- Venta de carteras.
+- Home Banking.
+- Prevención de lavado de Activos.
