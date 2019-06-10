@@ -1,1 +1,15 @@
-probando 
+- Seguridad
+- Personas, relaciones interpersonales y relaciones operativas
+- Ayudas Económicas Documentadas
+- Ayudas Económicas de Pago Integro ( Descuento de Valores )
+- Garantías Recibidas
+- Depósitos a Termino
+- Depósitos en Cuentas de Ahorro y a la Vista
+- Cobranzas y Rendiciones de tasas, impuestos y otros
+- Gestión de servicios en cuotas (cuotas sociales, primas de seguros y otras)
+- Bienes de Uso
+- Caja y Tesorería
+- Agendas de pago y cobros
+- Tarjetas de Crédito
+- Leasing
+
